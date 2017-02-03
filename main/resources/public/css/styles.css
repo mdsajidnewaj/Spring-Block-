@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+.navbar-right{
+	padding:6px;
+}
+
+.navbar-right ul li{
+	margin-left: 7px;
+}
+
+#posts {
+	padding-top: 50px;
+}
+.footer{
+	padding-top: 100px;
+	backgroung-color:#808080;
+}
+
+.loginPage{
+	padding-top:50px;
+}
